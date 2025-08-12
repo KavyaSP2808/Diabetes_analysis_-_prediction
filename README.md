@@ -6,6 +6,13 @@
             Model training with multiple algorithms
             Hyperparameter tuning
             Using ensemble learning to increase accuracy
-git clone https://github.com/KavyaSP2808/Diabetes_analysis_-_prediction.git
-cd Diabetes_analysis_-_prediction
-pip install -r requirements.txt
+🚀 Usage
+jupyter notebook Diabetes_Analysis_and_Prediction.ipynb
+
+📈 Results
+Best performing model: VotingClassifier
+Achieved accuracy: 72.72727272727273%
+ROC AUC Score: 81.45087235996327%
+
+📄 License
+This project is licensed under the MIT License.
