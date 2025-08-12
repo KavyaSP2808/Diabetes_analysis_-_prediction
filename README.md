@@ -6,10 +6,6 @@
             Model training with multiple algorithms
             Hyperparameter tuning
             Using ensemble learning to increase accuracy
-✨ Features
-      Exploratory Data Analysis with visualizations
-      Missing value handling and preprocessing pipeline
-      Multiple model evaluation (Logistic Regression, Random Forest, etc.)
-      Hyperparameter tuning using GridSearchCV
-      Ensemble model for final predictions            
-            
+git clone https://github.com/KavyaSP2808/Diabetes_analysis_-_prediction.git
+cd Diabetes_analysis_-_prediction
+pip install -r requirements.txt
